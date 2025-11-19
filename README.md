@@ -33,7 +33,7 @@ _change_over_time_analysis -
 
 Here are examples of insights uncovered through the SQL analysis:
 
-🧑‍🤝‍🧑 Customer Insights
+**Customer Insights**
 
 - A small % of customers contributed a disproportionately high share of total revenue (Pareto trend).
 
@@ -41,7 +41,7 @@ Here are examples of insights uncovered through the SQL analysis:
 
 - New customers displayed higher average order values compared to long-term customers.
 
-📦 Product Insights
+**Product Insights**
 
 - A few top products consistently dominated sales volume across all time periods.
 
@@ -49,7 +49,7 @@ Here are examples of insights uncovered through the SQL analysis:
 
 - Seasonal effects were visible in certain product categories.
 
-📅 Time-Series Insights
+**Time-Series Insights**
 
 - Clear month-over-month growth patterns with specific quarters outperforming others.
 
@@ -57,7 +57,7 @@ Here are examples of insights uncovered through the SQL analysis:
 
 - Specific years/quarters showed strong spikes linked to seasonal campaigns.
 
-🌍 Geographic & Segmentation Insights
+**Geographic & Segmentation Insights**
 
 Certain regions showed significantly higher spend per customer.
 
