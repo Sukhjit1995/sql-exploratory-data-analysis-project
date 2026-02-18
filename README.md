@@ -9,19 +9,19 @@ The aim was to perform structured SQL-based exploratory data analysis (EDA) to u
 
 The repository contains a sequence of SQL scripts that progress from basic exploration to advanced analytical queries, mirroring how a data analyst would investigate and understand a warehouse system in a real business environment.
 
-🎯 Objectives
+**Objectives**
 
-✔️ Understand the structure of the database (tables, relationships, keys)
+- Understand the structure of the database (tables, relationships, keys)
 
-✔️ Explore dimensions (customers, products, geography, time periods)
+- Explore dimensions (customers, products, geography, time periods)
 
-✔️ Analyse sales performance and purchasing patterns
+- Analyse sales performance and purchasing patterns
 
-✔️ Identify customer and product trends
+- Identify customer and product trends
 
-✔️ Use ranking, segmentation, magnitude, and cumulative analysis
+- Use ranking, segmentation, magnitude, and cumulative analysis
 
-✔️ Build final analytical reports (customers + products)
+- Build final analytical reports (customers + products)
 
 The SQL scripts are organised to reflect a real analytical workflow such as:
 
